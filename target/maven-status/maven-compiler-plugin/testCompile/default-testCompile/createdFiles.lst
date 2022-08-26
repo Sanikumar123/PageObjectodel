@@ -1,0 +1,8 @@
+com\w2a\testcases\BankManagerLogintest.class
+com\w2a\utility\CaptureScreenshot.class
+com\w2a\testcases\AddCustomerTest.class
+com\w2a\listeners\CustomListener.class
+com\w2a\utility\ExcelReader.class
+com\w2a\utility\CommonDataProvider.class
+com\w2a\utility\ExtentManager.class
+com\w2a\base\TestBase.class

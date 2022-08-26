@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Way2Automation]">
+  <test thread-count="5" name="BankLogin(failed)">
+    <classes>
+      <class name="com.w2a.testcases.Logintest">
+        <methods>
+          <include name="loginAsbankManager"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.w2a.testcases.Logintest -->
+    </classes>
+  </test> <!-- BankLogin(failed) -->
+</suite> <!-- Failed suite [Way2Automation] -->
